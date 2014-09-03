@@ -16,11 +16,11 @@ made up to that point. If you look at the output you'll see a output
 similar to: 
 ```
 $ git log
-commit cfd45281e21e09966c1e91317402bbbc2a25f816
+960b39317524a98752955ec757e1284805c3a6a9
 Author: Antoine Guerrero <asguerrero3@gmail.com>
-Date:   Thu Aug 28 21:31:47 2014 -0700
+Date:   Tue Sep 2 23:28:11 2014 -0700
 
-    Add my tutorial README
+    Add README
 ```
 Looking at the example above we see that the author is identified by a
 name followed by an email address. How does git determine which email
