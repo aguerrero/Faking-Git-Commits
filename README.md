@@ -44,8 +44,8 @@ yourself using your login information. I wasn't too sure what would
 happen if I pushed a commit using a different email than the one used
 for my GitHub credentials but I told Mike of my idea and with his
 permission I went and tried out my idea. The process of committing with
-Mike's credentials was straight forward. First I modified the grade file in
-vim and then added the file with `git add grade`. The commit was made
+Mike's credentials was straight forward. First I modified the grade file
+in vim and then added the file with `git add grade`. The commit was made
 with `git commit --author="Mike Izbicki <mike@izbicki.me>" -m "Change
 grade"`. By using the `--author"` flag I was able to override the author
 that git would credit for the commit. Instead of using the information in
