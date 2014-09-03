@@ -1,6 +1,6 @@
 # Faking Git Commits
 
-I took [https://github.com/mikeizbicki/ucr-cs100](a class) that used github to track and record grades.
+I took [a class](https://github.com/mikeizbicki/ucr-cs100) that used github to track and record grades.
 The professor offered extra credit if we could hack his grading system to change grades.
 So I figured out a way to fake git commits.
 
@@ -9,7 +9,7 @@ that he had make a grading mistake.  But he payed a lot of
 attention to what was going on I didn't think that would go to well
 for me. So, I turned to google and started reading up on git. I
 didn't know exactly what I was looking for.  But I know I was on the
-right track [FIXME: when .... happened]. In [https://github.com/mikeizbicki/ucr-cs100/assignments/labs/lab1-git/](one of our labs) we covered how to add files to a git
+right track [FIXME: when .... happened]. In [one of our labs](https://github.com/mikeizbicki/ucr-cs100/assignments/labs/lab1-git/) we covered how to add files to a git
 repository and commit the changes, what we didn't cover was how git
 decided on who made the commits in the first place. If you look at a
 repository's log with `git log`, you'll see the history of all the commits
