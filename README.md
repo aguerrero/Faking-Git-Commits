@@ -66,10 +66,12 @@ So what happens to be a Git feature helped my get extra credit in class.
 In the example above Mike happened to be a contributor to my repository
 but would the same method work for non contributors? It turns out it
 still works. If you look up the git log to this repository you'll see
-that 5 GitHub staff members have also contributed to this repository and
-made changes to the file `look_inside.txt`. While this case of
-committing commit fraud was rather innocent there are a few not so
-innocent ways to abuse this feature. Consider the average CS student
+that a few GitHub staff members and Linus Torvalds have also contributed
+to this repository and made changes to the file `important.txt`.
+Here is an image of what the blame looks like for `important.txt`.
+![Image of blame](https://github.com/aguerrero/cs100hw5/blob/master/images/blame.png)
+While this case of committing commit fraud was rather innocent there are a few
+not so innocent ways to abuse this feature. Consider the average CS student
 that will be searching for job after graduation. Such a student may be
 building a portfolio to present to possible employers but may not have
 anything on GitHub that catches too much attention. One way to change
